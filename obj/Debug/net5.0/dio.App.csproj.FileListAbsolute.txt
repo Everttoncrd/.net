@@ -1,0 +1,16 @@
+C:\Users\Evertton Cardoso\Desktop\projeto gft\Dio.App\obj\Debug\net5.0\dio.App.csproj.AssemblyReference.cache
+C:\Users\Evertton Cardoso\Desktop\projeto gft\Dio.App\obj\Debug\net5.0\dio.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evertton Cardoso\Desktop\projeto gft\Dio.App\obj\Debug\net5.0\dio.App.AssemblyInfoInputs.cache
+C:\Users\Evertton Cardoso\Desktop\projeto gft\Dio.App\obj\Debug\net5.0\dio.App.AssemblyInfo.cs
+C:\Users\Evertton Cardoso\Desktop\projeto gft\Dio.App\obj\Debug\net5.0\dio.App.csproj.CoreCompileInputs.cache
+C:\Users\Evertton Cardoso\Desktop\projeto gft\Dio.App\bin\Debug\net5.0\dio.App.exe
+C:\Users\Evertton Cardoso\Desktop\projeto gft\Dio.App\bin\Debug\net5.0\dio.App.deps.json
+C:\Users\Evertton Cardoso\Desktop\projeto gft\Dio.App\bin\Debug\net5.0\dio.App.runtimeconfig.json
+C:\Users\Evertton Cardoso\Desktop\projeto gft\Dio.App\bin\Debug\net5.0\dio.App.runtimeconfig.dev.json
+C:\Users\Evertton Cardoso\Desktop\projeto gft\Dio.App\bin\Debug\net5.0\dio.App.dll
+C:\Users\Evertton Cardoso\Desktop\projeto gft\Dio.App\bin\Debug\net5.0\ref\dio.App.dll
+C:\Users\Evertton Cardoso\Desktop\projeto gft\Dio.App\bin\Debug\net5.0\dio.App.pdb
+C:\Users\Evertton Cardoso\Desktop\projeto gft\Dio.App\obj\Debug\net5.0\dio.App.dll
+C:\Users\Evertton Cardoso\Desktop\projeto gft\Dio.App\obj\Debug\net5.0\ref\dio.App.dll
+C:\Users\Evertton Cardoso\Desktop\projeto gft\Dio.App\obj\Debug\net5.0\dio.App.pdb
+C:\Users\Evertton Cardoso\Desktop\projeto gft\Dio.App\obj\Debug\net5.0\dio.App.genruntimeconfig.cache
